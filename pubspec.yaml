@@ -1,7 +1,8 @@
 name: custom_button
-description: A new Flutter package project.
+description: custom_button pakage for Flutter. This pakage provides a cross-platform (iOS, Android) API for Custom Button functions.
 version: 1.0.0
-homepage: <em>https://github.com/Abdghali/custom_button</em>.
+homepage: <em>https://github.com/Abdghali/custom_button</em>
+issue_tracker: <em>https://github.com/Abdghali/custom_button/issues</em>
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
